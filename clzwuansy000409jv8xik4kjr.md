@@ -1,7 +1,7 @@
 ---
 title: "Introducing Trillian Tessera"
-seoTitle: "Trillian Tessera: Next Generation Tile-based Transparency Logs"
-seoDescription: "Trillian Tessera: Next Generation Tile-based Transparency Logs"
+seoTitle: "Introducing Trillian Tessera: Tile-based Transparency Logs"
+seoDescription: "Introducing Trillian Tessera: Next Generation Tile-based Transparency Logs"
 datePublished: Fri Aug 16 2024 15:03:51 GMT+0000 (Coordinated Universal Time)
 cuid: clzwuansy000409jv8xik4kjr
 slug: introducing-trillian-tessera
