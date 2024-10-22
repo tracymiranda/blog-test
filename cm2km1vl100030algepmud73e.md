@@ -14,7 +14,7 @@ It’s a special day when you find yourself in London, playing darts while discu
 
 ### Evolution of the Bar for Trust
 
-The summit kicked off with an inspiring keynote from Al Cutter who took us through the fascinating evolution of transparency technologies. He shared how these technologies have redefined trust in the industry and underscored the growing importance of transparency as the gold standard. Cutter also highlighted [C2SP specs](https://github.com/C2SP/C2SP/tree/main) which are driving interoperability across ecosystems. Cutter’s insights set a powerful tone for the rest of the summit, framing the discussions around how we can drive further innovation through collaboration in open source.
+The summit kicked off with an inspiring keynote from Al Cutter who took us through the fascinating evolution of transparency technologies. He shared how these technologies have redefined trust in the industry and underscored the growing importance of transparency as the gold standard. Cutter also highlighted [C2SP specs](https://github.com/C2SP/C2SP) which are driving interoperability across ecosystems. Cutter’s insights set a powerful tone for the rest of the summit, framing the discussions around how we can drive further innovation through collaboration in open source.
 
 %\[[https://youtu.be/IJfgKh3gwOQ?si=IG03ymKEQ89yaZ\_v](https://youtu.be/IJfgKh3gwOQ?si=IG03ymKEQ89yaZ_v)
 
