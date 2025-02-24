@@ -48,7 +48,7 @@ Supporting CT in a browser requires verifying SCTs from an approved set of CT lo
 * To see what logs are in a particular version of Firefox, you can examine the history of [Known CT Logs](https://searchfox.org/mozilla-central/source/security/ct/CTKnownLogs.h).
     
 
-To more details on Firefox CT policies, see [Certificate Transparency in Firefox](https://wiki.mozilla.org/SecurityEngineering/Certificate_Transparency)
+To learn more details on Firefox CT policies, see [Certificate Transparency in Firefox](https://wiki.mozilla.org/SecurityEngineering/Certificate_Transparency)
 
 ## Firefox & Tile-Based Logs
 
