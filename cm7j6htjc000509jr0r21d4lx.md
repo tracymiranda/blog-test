@@ -33,7 +33,7 @@ Certificate transparency information can be delivered either as:
 
 For a connection to succeed, sufficient certificate transparency information must be provided using either of these methods. See [Firefox CT Policy](https://wiki.mozilla.org/SecurityEngineering/Certificate_Transparency#CT_Policy) for more details.
 
-You can see CT enforcement in action for yourself using the [‘https://no-sct.badssl.c](https://certificate.transparency.dev/useragents/)[om](https://no-sct.badssl.com)‘ test site which if accessed from Firefox v135 shows the error "MOZILLA\_PKIX\_ERROR\_INSUFFICIENT\_CERTIFICATE\_TRANSPARENCY" to reflect the fact that the server does not send a Signed Certificate Timestamp (SCT) for the domain of the test site.
+You can see CT enforcement in action for yourself using the [‘https://no-sct.badssl.com](https://no-sct.badssl.com)‘ test site which if accessed from Firefox v135 shows the error "MOZILLA\_PKIX\_ERROR\_INSUFFICIENT\_CERTIFICATE\_TRANSPARENCY" to reflect the fact that the server does not send a Signed Certificate Timestamp (SCT) for the domain of the test site.
 
 ![Firefox v135 showing the error "MOZILLA_PKIX_ERROR_INSUFFICIENT_CERTIFICATE_TRANSPARENCY" to reflect the fact that the server does not send a Signed Certificate Timestamp (SCT) for the domain of the test site.](https://cdn.hashnode.com/res/hashnode/image/upload/v1740404495849/0e62b10f-fb01-492e-b261-03f64db998df.jpeg align="center")
 
