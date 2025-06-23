@@ -52,4 +52,4 @@ To start experimenting with Tessera you can choose one of these example personal
 
 In addition, keep an eye on the [Getting Started](https://github.com/transparency-dev/tessera/tree/main?tab=readme-ov-file#getting-started) section in the [Tessera README](https://github.com/transparency-dev/tessera/tree/main?tab=readme-ov-file#tessera) for future example personalities.
 
-For any questions or guidance on working with Tessera please reach out to the team by posting questions on the [transparency.dev community slack](https://transparency-dev.slack.com/). We can’t wait to hear what you think!
+For any questions or guidance on working with Tessera please reach out to the team by posting questions on the [transparency.dev community slack](https://join.slack.com/t/transparency-dev/shared_invite/zt-2jt6643n4-I5wLUo90_tvTVd4nfmfDug). We can’t wait to hear what you think!
