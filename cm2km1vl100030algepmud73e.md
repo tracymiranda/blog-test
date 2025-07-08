@@ -46,7 +46,7 @@ If you missed the event or want to stay in touch with the community for future e
 
 Also stay in touch with the community through these channels:
 
-* Join the transparency-dev Slack ([invite link](https://transparency-dev.slack.com/join/shared_invite/zt-2hw3qg8w6-FTaCast0CflW~EuaDTpLwA#/shared-invite/email))
+* Join the transparency-dev [Slack](https://transparency.dev/slack/)
     
 * Watch the talk recordings on the [transparency-dev YouTube channel](https://www.youtube.com/channel/UC_CUBXljwl-7tmYeOs-7ukQ)
     
