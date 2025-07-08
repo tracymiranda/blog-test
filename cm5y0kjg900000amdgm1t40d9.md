@@ -49,7 +49,7 @@ The future of Certificate Transparency and the Transparency.dev ecosystem is bri
 
 The Transparency.dev community will continue to play a pivotal role in shaping this future. By fostering collaboration, sharing knowledge, and building innovative tools, the ecosystem will empower security professionals and developers to make the digital worlds a safer place for everyone. Join us as we build a more transparent, accountable, and secure digital world!
 
-* Join the transparency-dev Slack ([**invite link**](https://transparency-dev.slack.com/join/shared_invite/zt-2hw3qg8w6-FTaCast0CflW~EuaDTpLwA#/shared-invite/email))
+* Join the transparency-dev [Slack](https://transparency.dev/slack/)
     
 * Follow the [**Transparency-dev Community Blog**](https://blog.transparency.dev/)
     
