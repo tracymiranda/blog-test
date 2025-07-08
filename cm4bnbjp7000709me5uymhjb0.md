@@ -62,6 +62,6 @@ As we continue to refine and enhance Trillian Tessera, we invite developers and 
 
 Looking forward, we have ambitious plans for Trillian Tessera. Future plans will focus on adding features that enhance usability and integration with other tools, especially based on feedback we hear from our early adopters. We are developing a [static CT API](https://github.com/C2SP/C2SP/blob/main/static-ct-api.md) compatible personality built with Tessera, anticipated in early 2025. Additionally, we are committed to ensuring that existing Trillian users have a smooth migration path to Trillian Tessera logs.
 
-Stay tuned for updates, and if you’re interested in getting involved check out the [Tessera Github repository](https://github.com/transparency-dev/trillian-tessera) and sign up to the [Transparency.dev Slack](https://transparency-dev.slack.com/).
+Stay tuned for updates, and if you’re interested in getting involved check out the [Tessera Github repository](https://github.com/transparency-dev/trillian-tessera) and sign up to the [Transparency.dev Slack](https://transparency.dev/slack/).
 
 This release marks an important milestone for the Transparency.dev community as tiled-logs become available for any transparency ecosystem. Thank you for your support, and we can’t wait to see what you build with Trillian Tessera!
