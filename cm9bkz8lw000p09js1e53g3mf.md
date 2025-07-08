@@ -79,4 +79,4 @@ We want to hear from you! If you’re interested in attending, speaking, or help
 
 Transparency.dev Summit 2025 is sponsored by Google and Mullvad VPN. We’re actively welcoming additional sponsors who share our mission to grow and support the Transparency.dev community. If your organization is interested in getting involved, please fill out our [interest survey](https://docs.google.com/forms/d/e/1FAIpQLSfabrC4JnWQCKGjPuHg4-kAua6Fe9wc0259IEn0pLTW1vAeOQ/viewform) to request more information.
 
-Stay tuned to our website: [Transparency.dev Summit](https://transparency.dev/summit/) for updates on the call-for-papers (CFP) and registration. Also join us in the [transparency-dev Slack](https://join.slack.com/t/transparency-dev/shared_invite/zt-2ezuukv8i-J3mcZ4tQkVdYevz~YskwkA) to hear the latest on the summit.
+Stay tuned to our website: [Transparency.dev Summit](https://transparency.dev/summit/) for updates on the call-for-papers (CFP) and registration. Also join us in the [transparency-dev Slack](https://transparency.dev/slack/) to hear the latest on the summit.
